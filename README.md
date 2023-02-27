@@ -1,5 +1,5 @@
-# Enterprise Architecture
+# 1. Enterprise Architecture
 
-# Development 
+# 2. Development 
 
-# Operasional
+# 3. Operasional
