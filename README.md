@@ -11,3 +11,4 @@
 - Testing = Make Unit Testing File (go test)
 
 # Operasional
+- Web berita, profile, landing page : Blogger dengan custom desain
