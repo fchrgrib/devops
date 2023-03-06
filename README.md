@@ -5,9 +5,9 @@
 
 
 # Development 
-- FrontEnd = CSS (Tailwind Builder, shuffle.dev), JS (Vanila JS, JSCroot), Fetch API, Login (WhatsAuth), Security (Cookies Token Login)
-- Backend = Akses Token (Paseto), go struct and function based ,Framework (Golang Viber), AI (BlackSheep)
-- Hosting  = Github Pages
-- Testing = Make Unit Testing File
+- FrontEnd = CSS (Tailwind Builder, shuffle.dev), JS (Vanila JS, JSCroot), Login (WhatsAuth), Security (Cookies Token Login)
+- Backend = Akses Token (Paseto), go struct and function based ,Framework (Golang Viber), AI (gorgonia, BlackSheep)
+- Frontend Hosting  = Github Pages
+- Testing = Make Unit Testing File (go test)
 
 # Operasional
