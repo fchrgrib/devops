@@ -1,9 +1,13 @@
-# 1. Enterprise Architecture
+# Parameter Acuan
 
-# 2. Development 
-- FrontEnd = CSS (Tailwind Builder), JS (Vanila JS), Fetch API, Login (WhatsAuth), Security (Token)
-- Backend = Akses Token (Paseto), Dev (Viber), AI (BlackSheep)
+## GTMetrix
+![image](https://user-images.githubusercontent.com/11188109/222995180-6544137c-0068-4861-a1c4-0704b2ea11e4.png)
+
+
+# Development 
+- FrontEnd = CSS (Tailwind Builder, shuffle.dev), JS (Vanila JS, JSCroot), Fetch API, Login (WhatsAuth), Security (Cookies Token Login)
+- Backend = Akses Token (Paseto), go struct and function based ,Framework (Golang Viber), AI (BlackSheep)
 - Hosting  = Github Pages
 - Testing = Make Unit Testing File
 
-# 3. Operasional
+# Operasional
