@@ -8,7 +8,7 @@ Silahkan memilih salah satu dari pengembangan yang akan dilakukan :
 
 ## Frontend Developer
 
-Buatlah tampilan interaksi pengamnbilan dan pengiriman data dari Public API yang ada dengan GitHub Pages menggunakan kumpulan fungsi di JSCroot.
+Buatlah tampilan interaksi pengambilan dan pengiriman data dari Public API yang ada dengan GitHub Pages menggunakan kumpulan fungsi di JSCroot.
 
 ## Backend Developer
 
