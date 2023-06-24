@@ -17,7 +17,7 @@ Buatlah API backend menggunakan Boilerplate GoCroot yang sudah dideploy pada GCP
 
 # Pengumpulan Test
 
-Silahkan lakukan pull request dengan merubah laman ini melalui (repo)[https://github.com/ditif/devops], tambahkan tulisan pada bagian bawah laman ini :
+Silahkan lakukan pull request dengan merubah laman ini melalui [repo](https://github.com/ditif/devops), tambahkan tulisan pada bagian bawah laman ini :
 
 |No.| Nama | URL Github Pages/ URL Backend dan Dokumentasi API|
 |---|---|---|
