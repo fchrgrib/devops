@@ -21,7 +21,7 @@ Untuk mendukung low level carbong coding, pengembangan yang dilakukan pada DTI a
 
 Pengembangan sisi tampilan tampak depan (Frontend) dengan kriteria :
 * Dibangun menggunakan builder CSS (Contoh : shuffle.dev untuk Tailwind Builder)
-* Interaksi dengan backend menggunakan Pure VanillaJS dengan fungsi-fungsi yang dipakai ulang dipanggil menggunakan Javascript import dari CDN | Kumpulan fungsi JS Kami ada di [JSCroot](https://jscroot.github.io/), 
+* Interaksi dengan backend menggunakan Pure VanillaJS dengan fungsi-fungsi yang dipakai ulang dipanggil menggunakan Javascript import dari CDN. Kumpulan fungsi JS Kami ada di [JSCroot](https://jscroot.github.io/).
 * Login Otorisasi dan Authentikasi Pengguna menggunakan [WhatsAuth](https://github.com/whatsauth/) yang sudah menggunakan Paseto untuk Security Token ke Backend.
 * Dibangun diatas platform GitHub Pages.
 
