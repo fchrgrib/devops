@@ -19,5 +19,6 @@ Buatlah API backend menggunakan Boilerplate GoCroot yang sudah dideploy pada GCP
 
 Silahkan lakukan pull request dengan merubah laman ini, tambahkan tulisan pada bagian bawah laman ini :
 
-1. Nama | URL Github Pages/ URL Backend dan Dokumentasi API
+|No.| Nama | URL Github Pages/ URL Backend dan Dokumentasi API|
+|1. | | |
 
