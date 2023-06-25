@@ -1,6 +1,8 @@
 # Parameter Acuan
 
-Direktorat Teknologi Informasi ULBI, dalam pengembangannya berpedoman pada :
+Direktorat Teknologi Informasi ULBI, dalam pengembangannya berpedoman pada Green Coding
+
+![image](https://github.com/ditif/devops/assets/11188109/83a9cb3a-a932-4244-9de2-feb13a76fcad)
 
 Green Coding : Low Level Carbon Footprint Code
 
