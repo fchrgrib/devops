@@ -16,10 +16,13 @@ Website selalu di evaluasi dan memiliki nilai GTMetrix : A
 
 ## Green Coding Bahasa Pemrograman
 
-Sebagai perbandingan konsumsi komputasi CPU dan Memori dari beberapa bahasa pemrograman:
+Sebagai perbandingan konsumsi komputasi CPU dan Memori dari beberapa bahasa pemrograman yang berjalan di server on premise kami :
 
 ![image](https://github.com/ditif/devops/assets/11188109/25a0cbc9-8d0b-46b4-88c1-b46b9d486602)
 
+![image](https://github.com/ditif/devops/assets/11188109/7ad9d39b-6c1f-4bc5-8c9f-a21066e79659)
+
+![image](https://github.com/ditif/devops/assets/11188109/c2a97a8f-f1c6-4d51-a784-acdb192d5f0a)
 
 
 ## Green Coding Pengembangan Aplikasi
