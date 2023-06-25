@@ -14,8 +14,15 @@ Website selalu di evaluasi dan memiliki nilai GTMetrix : A
 
 ![image](https://user-images.githubusercontent.com/11188109/222995180-6544137c-0068-4861-a1c4-0704b2ea11e4.png)
 
+## Green Coding Bahasa Pemrograman
 
-## Pengembangan Aplikasi
+Sebagai perbandingan konsumsi komputasi CPU dan Memori dari beberapa bahasa pemrograman:
+
+![image](https://github.com/ditif/devops/assets/11188109/25a0cbc9-8d0b-46b4-88c1-b46b9d486602)
+
+
+
+## Green Coding Pengembangan Aplikasi
 
 Untuk mendukung low level carbong coding, pengembangan yang dilakukan pada DTI antara lain pengembangan Frontend, Backend dan Profile Web. Dengan kriteria sebagai berikut :
 
