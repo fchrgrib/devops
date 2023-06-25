@@ -22,8 +22,12 @@ Sebagai perbandingan konsumsi komputasi CPU dan Memori dari beberapa bahasa pemr
 
 ![image](https://github.com/ditif/devops/assets/11188109/7ad9d39b-6c1f-4bc5-8c9f-a21066e79659)
 
-![image](https://github.com/ditif/devops/assets/11188109/c2a97a8f-f1c6-4d51-a784-acdb192d5f0a)
+![image](https://github.com/ditif/devops/assets/11188109/58582ef3-8eba-4849-be21-fd7b5d702eb0)
 
+Rata-rata penggunaan Memori :
+1. PHP : 238 MiB
+2. Python : 62 MiB
+3. Golang : 28,6 MiB
 
 ## Green Coding Pengembangan Aplikasi
 
