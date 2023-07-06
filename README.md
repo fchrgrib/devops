@@ -29,6 +29,8 @@ Rata-rata penggunaan Memori :
 2. Python : 62 MiB
 3. Golang : 28,6 MiB
 
+Untuk perbandingan bahasa pemrograman frontend bisa dilihat (disini)[https://krausest.github.io/js-framework-benchmark/current.html].
+
 ## Green Coding Pengembangan Aplikasi
 
 Untuk mendukung low level carbong coding, pengembangan yang dilakukan pada DTI antara lain pengembangan Frontend, Backend dan Profile Web. Dengan kriteria sebagai berikut :
