@@ -29,7 +29,7 @@ Rata-rata penggunaan Memori :
 2. Python : 62 MiB
 3. Golang : 28,6 MiB
 
-Untuk perbandingan bahasa pemrograman frontend bisa dilihat (disini)[https://krausest.github.io/js-framework-benchmark/current.html].
+Untuk perbandingan bahasa pemrograman frontend bisa dilihat [disini](https://krausest.github.io/js-framework-benchmark/current.html).
 
 ## Green Coding Pengembangan Aplikasi
 
